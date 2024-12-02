@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\לימודים\\core\\OurApi\\wwwroot\\User.html",
+      "PackagePath": "staticwebassets\\User.html"
+    },
+    {
+      "Id": "C:\\לימודים\\core\\OurApi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\לימודים\\core\\OurApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\לימודים\\core\\OurApi\\wwwroot\\js\\User.js",
+      "PackagePath": "staticwebassets\\js\\User.js"
+    },
+    {
+      "Id": "C:\\לימודים\\core\\OurApi\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\לימודים\\core\\OurApi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\לימודים\\core\\OurApi\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.OurApi.props",
+      "PackagePath": "build\\OurApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.OurApi.props",
+      "PackagePath": "buildMultiTargeting\\OurApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.OurApi.props",
+      "PackagePath": "buildTransitive\\OurApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

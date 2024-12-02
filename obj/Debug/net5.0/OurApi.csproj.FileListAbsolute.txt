@@ -1,0 +1,7 @@
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net5.0\OurApi.csproj.AssemblyReference.cache
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net5.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net5.0\OurApi.AssemblyInfoInputs.cache
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net5.0\OurApi.AssemblyInfo.cs
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net5.0\OurApi.csproj.CoreCompileInputs.cache
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net5.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net5.0\OurApi.MvcApplicationPartsAssemblyInfo.cache

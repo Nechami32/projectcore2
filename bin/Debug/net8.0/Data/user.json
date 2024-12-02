@@ -1,0 +1,6 @@
+[{"id":1,"Username" : "David", "Password": "123" ,"IsManage":true},
+ {"id":2,"Username" : "brachi", "Password": "2" ,"IsManage":false},
+ {"id":3,"Username" : "nechami", "Password": "3" ,"IsManage":false}
+]
+ 
+ 

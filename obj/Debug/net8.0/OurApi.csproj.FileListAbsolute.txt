@@ -1,0 +1,210 @@
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\appsettings (2).json
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\appsettings.Development (1).json
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\Data\glasses.json
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\Data\user.json
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\OurApi.staticwebassets.runtime.json
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\OurApi.exe
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\OurApi.deps.json
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\OurApi.runtimeconfig.json
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\OurApi.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\OurApi.pdb
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\OurApi.csproj.AssemblyReference.cache
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfoInputs.cache
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfo.cs
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\OurApi.csproj.CoreCompileInputs.cache
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.build.OurApi.props
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\scopedcss\bundle\OurApi.styles.css
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\OurApi.csproj.Up2Date
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\OurApi.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\refint\OurApi.dll
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\OurApi.pdb
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\OurApi.genruntimeconfig.cache
+Z:\B\ברכי שורץ\זילברברג\OurApi\obj\Debug\net8.0\ref\OurApi.dll
+C:\לימודים\core\OurApi\bin\Debug\net8.0\appsettings (2).json
+C:\לימודים\core\OurApi\bin\Debug\net8.0\appsettings.Development (1).json
+C:\לימודים\core\OurApi\bin\Debug\net8.0\Data\glasses.json
+C:\לימודים\core\OurApi\bin\Debug\net8.0\Data\user.json
+C:\לימודים\core\OurApi\bin\Debug\net8.0\OurApi.staticwebassets.runtime.json
+C:\לימודים\core\OurApi\bin\Debug\net8.0\OurApi.exe
+C:\לימודים\core\OurApi\bin\Debug\net8.0\OurApi.deps.json
+C:\לימודים\core\OurApi\bin\Debug\net8.0\OurApi.runtimeconfig.json
+C:\לימודים\core\OurApi\bin\Debug\net8.0\OurApi.dll
+C:\לימודים\core\OurApi\bin\Debug\net8.0\OurApi.pdb
+C:\לימודים\core\OurApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\לימודים\core\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\לימודים\core\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\לימודים\core\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\לימודים\core\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\לימודים\core\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\לימודים\core\OurApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\לימודים\core\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\לימודים\core\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\לימודים\core\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\לימודים\core\OurApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\לימודים\core\OurApi\obj\Debug\net8.0\OurApi.csproj.AssemblyReference.cache
+C:\לימודים\core\OurApi\obj\Debug\net8.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\core\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfoInputs.cache
+C:\לימודים\core\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfo.cs
+C:\לימודים\core\OurApi\obj\Debug\net8.0\OurApi.csproj.CoreCompileInputs.cache
+C:\לימודים\core\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+C:\לימודים\core\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+C:\לימודים\core\OurApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\לימודים\core\OurApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\לימודים\core\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\לימודים\core\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.build.OurApi.props
+C:\לימודים\core\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+C:\לימודים\core\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+C:\לימודים\core\OurApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\לימודים\core\OurApi\obj\Debug\net8.0\scopedcss\bundle\OurApi.styles.css
+C:\לימודים\core\OurApi\obj\Debug\net8.0\OurApi.csproj.Up2Date
+C:\לימודים\core\OurApi\obj\Debug\net8.0\OurApi.dll
+C:\לימודים\core\OurApi\obj\Debug\net8.0\refint\OurApi.dll
+C:\לימודים\core\OurApi\obj\Debug\net8.0\OurApi.pdb
+C:\לימודים\core\OurApi\obj\Debug\net8.0\OurApi.genruntimeconfig.cache
+C:\לימודים\core\OurApi\obj\Debug\net8.0\ref\OurApi.dll
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\appsettings (2).json
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\appsettings.Development (1).json
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Data\glasses.json
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Data\user.json
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\OurApi.staticwebassets.runtime.json
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\OurApi.exe
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\OurApi.deps.json
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\OurApi.runtimeconfig.json
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\OurApi.dll
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\OurApi.pdb
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.csproj.AssemblyReference.cache
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfoInputs.cache
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfo.cs
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.csproj.CoreCompileInputs.cache
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.build.OurApi.props
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\scopedcss\bundle\OurApi.styles.css
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.csproj.Up2Date
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.dll
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\refint\OurApi.dll
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.pdb
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.genruntimeconfig.cache
+D:\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\ref\OurApi.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\appsettings (2).json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\appsettings.Development (1).json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Data\glasses.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Data\user.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\OurApi.staticwebassets.runtime.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\OurApi.exe
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\OurApi.deps.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\OurApi.runtimeconfig.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\OurApi.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\OurApi.pdb
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfo.cs
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.build.OurApi.props
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\scopedcss\bundle\OurApi.styles.css
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.csproj.Up2Date
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\refint\OurApi.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.pdb
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\OurApi.genruntimeconfig.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\פרויקט שני צהרים\OurApi\obj\Debug\net8.0\ref\OurApi.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\appsettings (2).json
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\appsettings.Development (1).json
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\Data\glasses.json
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\Data\user.json
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\OurApi.staticwebassets.runtime.json
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\OurApi.exe
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\OurApi.deps.json
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\OurApi.runtimeconfig.json
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\OurApi.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\OurApi.pdb
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\OurApi.csproj.AssemblyReference.cache
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfoInputs.cache
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\OurApi.AssemblyInfo.cs
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\OurApi.csproj.CoreCompileInputs.cache
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.build.OurApi.props
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\scopedcss\bundle\OurApi.styles.css
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\OurApi.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\refint\OurApi.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\OurApi.pdb
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\OurApi.genruntimeconfig.cache
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\ref\OurApi.dll
+Z:\B\נחמי ברנר\core\פרויקט רביעי\OurApi\obj\Debug\net8.0\OurApi.csproj.CopyComplete

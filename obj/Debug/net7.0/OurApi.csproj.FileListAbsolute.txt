@@ -1,0 +1,419 @@
+G:\זלברברג\2024-10-08\OurApi\bin\Debug\net7.0\appsettings.Development.json
+G:\זלברברג\2024-10-08\OurApi\bin\Debug\net7.0\appsettings.json
+G:\זלברברג\2024-10-08\OurApi\bin\Debug\net7.0\OurApi.exe
+G:\זלברברג\2024-10-08\OurApi\bin\Debug\net7.0\OurApi.deps.json
+G:\זלברברג\2024-10-08\OurApi\bin\Debug\net7.0\OurApi.runtimeconfig.json
+G:\זלברברג\2024-10-08\OurApi\bin\Debug\net7.0\OurApi.dll
+G:\זלברברג\2024-10-08\OurApi\bin\Debug\net7.0\OurApi.pdb
+G:\זלברברג\2024-10-08\OurApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\זלברברג\2024-10-08\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\זלברברג\2024-10-08\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\זלברברג\2024-10-08\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\OurApi.csproj.AssemblyReference.cache
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfoInputs.cache
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfo.cs
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\OurApi.csproj.CoreCompileInputs.cache
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.build.OurApi.props
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\staticwebassets.pack.json
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\staticwebassets.build.json
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\staticwebassets.development.json
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\scopedcss\bundle\OurApi.styles.css
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\OurApi.csproj.CopyComplete
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\OurApi.dll
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\refint\OurApi.dll
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\OurApi.pdb
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\OurApi.genruntimeconfig.cache
+G:\זלברברג\2024-10-08\OurApi\obj\Debug\net7.0\ref\OurApi.dll
+G:\זלברברג\2024-10-08\OurApi\bin\Debug\net7.0\OurApi.staticwebassets.runtime.json
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\bin\Debug\net7.0\appsettings.json
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\bin\Debug\net7.0\OurApi.staticwebassets.runtime.json
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\bin\Debug\net7.0\OurApi.exe
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\bin\Debug\net7.0\OurApi.deps.json
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\bin\Debug\net7.0\OurApi.runtimeconfig.json
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\bin\Debug\net7.0\OurApi.dll
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\bin\Debug\net7.0\OurApi.pdb
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\OurApi.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfo.cs
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\OurApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.build.OurApi.props
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\scopedcss\bundle\OurApi.styles.css
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\OurApi.dll
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\refint\OurApi.dll
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\OurApi.pdb
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\OurApi.genruntimeconfig.cache
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\ref\OurApi.dll
+C:\Users\user1\Desktop\גיבוי דיסק אונקי נחמי\זלברברג\OurApi\obj\Debug\net7.0\OurApi.csproj.CopyComplete
+G:\OurApi\bin\Debug\net7.0\appsettings.Development.json
+G:\OurApi\bin\Debug\net7.0\appsettings.json
+G:\OurApi\bin\Debug\net7.0\OurApi.staticwebassets.runtime.json
+G:\OurApi\bin\Debug\net7.0\OurApi.exe
+G:\OurApi\bin\Debug\net7.0\OurApi.deps.json
+G:\OurApi\bin\Debug\net7.0\OurApi.runtimeconfig.json
+G:\OurApi\bin\Debug\net7.0\OurApi.dll
+G:\OurApi\bin\Debug\net7.0\OurApi.pdb
+G:\OurApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\OurApi\obj\Debug\net7.0\OurApi.csproj.AssemblyReference.cache
+G:\OurApi\obj\Debug\net7.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfoInputs.cache
+G:\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfo.cs
+G:\OurApi\obj\Debug\net7.0\OurApi.csproj.CoreCompileInputs.cache
+G:\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+G:\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+G:\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.build.OurApi.props
+G:\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+G:\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+G:\OurApi\obj\Debug\net7.0\staticwebassets.pack.json
+G:\OurApi\obj\Debug\net7.0\staticwebassets.build.json
+G:\OurApi\obj\Debug\net7.0\staticwebassets.development.json
+G:\OurApi\obj\Debug\net7.0\scopedcss\bundle\OurApi.styles.css
+G:\OurApi\obj\Debug\net7.0\OurApi.csproj.CopyComplete
+G:\OurApi\obj\Debug\net7.0\OurApi.dll
+G:\OurApi\obj\Debug\net7.0\refint\OurApi.dll
+G:\OurApi\obj\Debug\net7.0\OurApi.pdb
+G:\OurApi\obj\Debug\net7.0\OurApi.genruntimeconfig.cache
+G:\OurApi\obj\Debug\net7.0\ref\OurApi.dll
+C:\Users\user1\Pictures\י''ד\OurApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user1\Pictures\י''ד\OurApi\bin\Debug\net7.0\appsettings.json
+C:\Users\user1\Pictures\י''ד\OurApi\bin\Debug\net7.0\OurApi.staticwebassets.runtime.json
+C:\Users\user1\Pictures\י''ד\OurApi\bin\Debug\net7.0\OurApi.exe
+C:\Users\user1\Pictures\י''ד\OurApi\bin\Debug\net7.0\OurApi.deps.json
+C:\Users\user1\Pictures\י''ד\OurApi\bin\Debug\net7.0\OurApi.runtimeconfig.json
+C:\Users\user1\Pictures\י''ד\OurApi\bin\Debug\net7.0\OurApi.dll
+C:\Users\user1\Pictures\י''ד\OurApi\bin\Debug\net7.0\OurApi.pdb
+C:\Users\user1\Pictures\י''ד\OurApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Pictures\י''ד\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Pictures\י''ד\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Pictures\י''ד\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\OurApi.csproj.AssemblyReference.cache
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfoInputs.cache
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfo.cs
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\OurApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.build.OurApi.props
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\scopedcss\bundle\OurApi.styles.css
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\OurApi.csproj.CopyComplete
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\OurApi.dll
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\refint\OurApi.dll
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\OurApi.pdb
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\OurApi.genruntimeconfig.cache
+C:\Users\user1\Pictures\י''ד\OurApi\obj\Debug\net7.0\ref\OurApi.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\appsettings (2).json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\appsettings.Development (1).json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\OurApi.staticwebassets.runtime.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\OurApi.exe
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\OurApi.deps.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\OurApi.runtimeconfig.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\OurApi.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\OurApi.pdb
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\OurApi.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfo.cs
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\OurApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.build.OurApi.props
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\scopedcss\bundle\OurApi.styles.css
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\OurApi.csproj.Up2Date
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\OurApi.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\refint\OurApi.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\OurApi.pdb
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\OurApi.genruntimeconfig.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\obj\Debug\net7.0\ref\OurApi.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\Data\glasses.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\זילברברג\OurApi\bin\Debug\net7.0\Data\user.json
+D:\זילברברג\OurApi\bin\Debug\net7.0\appsettings (2).json
+D:\זילברברג\OurApi\bin\Debug\net7.0\appsettings.Development (1).json
+D:\זילברברג\OurApi\bin\Debug\net7.0\Data\glasses.json
+D:\זילברברג\OurApi\bin\Debug\net7.0\Data\user.json
+D:\זילברברג\OurApi\bin\Debug\net7.0\OurApi.staticwebassets.runtime.json
+D:\זילברברג\OurApi\bin\Debug\net7.0\OurApi.exe
+D:\זילברברג\OurApi\bin\Debug\net7.0\OurApi.deps.json
+D:\זילברברג\OurApi\bin\Debug\net7.0\OurApi.runtimeconfig.json
+D:\זילברברג\OurApi\bin\Debug\net7.0\OurApi.dll
+D:\זילברברג\OurApi\bin\Debug\net7.0\OurApi.pdb
+D:\זילברברג\OurApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\זילברברג\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\זילברברג\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\זילברברג\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\זילברברג\OurApi\obj\Debug\net7.0\OurApi.csproj.AssemblyReference.cache
+D:\זילברברג\OurApi\obj\Debug\net7.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\זילברברג\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfoInputs.cache
+D:\זילברברג\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfo.cs
+D:\זילברברג\OurApi\obj\Debug\net7.0\OurApi.csproj.CoreCompileInputs.cache
+D:\זילברברג\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+D:\זילברברג\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+D:\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.build.OurApi.props
+D:\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+D:\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+D:\זילברברג\OurApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\זילברברג\OurApi\obj\Debug\net7.0\scopedcss\bundle\OurApi.styles.css
+D:\זילברברג\OurApi\obj\Debug\net7.0\OurApi.csproj.Up2Date
+D:\זילברברג\OurApi\obj\Debug\net7.0\OurApi.dll
+D:\זילברברג\OurApi\obj\Debug\net7.0\refint\OurApi.dll
+D:\זילברברג\OurApi\obj\Debug\net7.0\OurApi.pdb
+D:\זילברברג\OurApi\obj\Debug\net7.0\OurApi.genruntimeconfig.cache
+D:\זילברברג\OurApi\obj\Debug\net7.0\ref\OurApi.dll
+D:\זילברברג\OurApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\זילברברג\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\זילברברג\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\זילברברג\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\זילברברג\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\זילברברג\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\זילברברג\OurApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\OurApi.csproj.AssemblyReference.cache
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfoInputs.cache
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfo.cs
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\OurApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\OurApi.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\refint\OurApi.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\OurApi.pdb
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\appsettings (2).json
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\appsettings.Development (1).json
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\Data\glasses.json
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\Data\user.json
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\OurApi.staticwebassets.runtime.json
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\OurApi.exe
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\OurApi.deps.json
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\OurApi.runtimeconfig.json
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\OurApi.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\OurApi.pdb
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.build.OurApi.props
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\scopedcss\bundle\OurApi.styles.css
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\OurApi.genruntimeconfig.cache
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\ref\OurApi.dll
+C:\Users\user1\Pictures\י''ד\פרויקט חמישי בצהריים\OurApi\obj\Debug\net7.0\OurApi.csproj.Up2Date
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\appsettings (2).json
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\appsettings.Development (1).json
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\Data\user.json
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\Data\glasses.json
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\OurApi.staticwebassets.runtime.json
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\OurApi.exe
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\OurApi.deps.json
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\OurApi.runtimeconfig.json
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\OurApi.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\OurApi.pdb
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\OurApi.csproj.AssemblyReference.cache
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfoInputs.cache
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfo.cs
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\OurApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.build.OurApi.props
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\scopedcss\bundle\OurApi.styles.css
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\OurApi.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\refint\OurApi.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\OurApi.pdb
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\OurApi.genruntimeconfig.cache
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\ref\OurApi.dll
+C:\Users\user1\Pictures\י''ד\פרויקט מוצ'''ש\OurApi\obj\Debug\net7.0\OurApi.csproj.Up2Date
+D:\OurApi\bin\Debug\net7.0\appsettings (2).json
+D:\OurApi\bin\Debug\net7.0\appsettings.Development (1).json
+D:\OurApi\bin\Debug\net7.0\Data\user.json
+D:\OurApi\bin\Debug\net7.0\Data\glasses.json
+D:\OurApi\bin\Debug\net7.0\OurApi.staticwebassets.runtime.json
+D:\OurApi\bin\Debug\net7.0\OurApi.exe
+D:\OurApi\bin\Debug\net7.0\OurApi.deps.json
+D:\OurApi\bin\Debug\net7.0\OurApi.runtimeconfig.json
+D:\OurApi\bin\Debug\net7.0\OurApi.dll
+D:\OurApi\bin\Debug\net7.0\OurApi.pdb
+D:\OurApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\OurApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OurApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OurApi\obj\Debug\net7.0\OurApi.csproj.AssemblyReference.cache
+D:\OurApi\obj\Debug\net7.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfoInputs.cache
+D:\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfo.cs
+D:\OurApi\obj\Debug\net7.0\OurApi.csproj.CoreCompileInputs.cache
+D:\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+D:\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+D:\OurApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\OurApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.build.OurApi.props
+D:\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+D:\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+D:\OurApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\OurApi\obj\Debug\net7.0\scopedcss\bundle\OurApi.styles.css
+D:\OurApi\obj\Debug\net7.0\OurApi.csproj.Up2Date
+D:\OurApi\obj\Debug\net7.0\OurApi.dll
+D:\OurApi\obj\Debug\net7.0\refint\OurApi.dll
+D:\OurApi\obj\Debug\net7.0\OurApi.pdb
+D:\OurApi\obj\Debug\net7.0\OurApi.genruntimeconfig.cache
+D:\OurApi\obj\Debug\net7.0\ref\OurApi.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\appsettings (2).json
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\appsettings.Development (1).json
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\Data\glasses.json
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\Data\user.json
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\OurApi.staticwebassets.runtime.json
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\OurApi.exe
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\OurApi.deps.json
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\OurApi.runtimeconfig.json
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\OurApi.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\OurApi.pdb
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\OurApi.csproj.AssemblyReference.cache
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfoInputs.cache
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfo.cs
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\OurApi.csproj.CoreCompileInputs.cache
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\staticwebassets.build.json
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\staticwebassets.development.json
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.build.OurApi.props
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\staticwebassets.pack.json
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\scopedcss\bundle\OurApi.styles.css
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\OurApi.csproj.Up2Date
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\OurApi.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\refint\OurApi.dll
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\OurApi.pdb
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\OurApi.genruntimeconfig.cache
+Z:\B\ברכי שורץ\זילברברג\פרויקט יום שני\OurApi\obj\Debug\net7.0\ref\OurApi.dll
+C:\לימודים\core\OurApi\obj\Debug\net7.0\OurApi.csproj.AssemblyReference.cache
+C:\לימודים\core\OurApi\obj\Debug\net7.0\OurApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\core\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfoInputs.cache
+C:\לימודים\core\OurApi\obj\Debug\net7.0\OurApi.AssemblyInfo.cs
+C:\לימודים\core\OurApi\obj\Debug\net7.0\OurApi.csproj.CoreCompileInputs.cache
+C:\לימודים\core\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cs
+C:\לימודים\core\OurApi\obj\Debug\net7.0\OurApi.MvcApplicationPartsAssemblyInfo.cache
+C:\לימודים\core\OurApi\obj\Debug\net7.0\OurApi.dll
+C:\לימודים\core\OurApi\obj\Debug\net7.0\refint\OurApi.dll
+C:\לימודים\core\OurApi\obj\Debug\net7.0\OurApi.pdb
+C:\לימודים\core\OurApi\bin\Debug\net7.0\appsettings (2).json
+C:\לימודים\core\OurApi\bin\Debug\net7.0\appsettings.Development (1).json
+C:\לימודים\core\OurApi\bin\Debug\net7.0\Data\glasses.json
+C:\לימודים\core\OurApi\bin\Debug\net7.0\Data\user.json
+C:\לימודים\core\OurApi\bin\Debug\net7.0\OurApi.staticwebassets.runtime.json
+C:\לימודים\core\OurApi\bin\Debug\net7.0\OurApi.exe
+C:\לימודים\core\OurApi\bin\Debug\net7.0\OurApi.deps.json
+C:\לימודים\core\OurApi\bin\Debug\net7.0\OurApi.runtimeconfig.json
+C:\לימודים\core\OurApi\bin\Debug\net7.0\OurApi.dll
+C:\לימודים\core\OurApi\bin\Debug\net7.0\OurApi.pdb
+C:\לימודים\core\OurApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\לימודים\core\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\לימודים\core\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\לימודים\core\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\לימודים\core\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\לימודים\core\OurApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\לימודים\core\OurApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\לימודים\core\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\לימודים\core\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\לימודים\core\OurApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\לימודים\core\OurApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\לימודים\core\OurApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\לימודים\core\OurApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\לימודים\core\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\לימודים\core\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.build.OurApi.props
+C:\לימודים\core\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OurApi.props
+C:\לימודים\core\OurApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OurApi.props
+C:\לימודים\core\OurApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\לימודים\core\OurApi\obj\Debug\net7.0\scopedcss\bundle\OurApi.styles.css
+C:\לימודים\core\OurApi\obj\Debug\net7.0\OurApi.csproj.Up2Date
+C:\לימודים\core\OurApi\obj\Debug\net7.0\OurApi.genruntimeconfig.cache
+C:\לימודים\core\OurApi\obj\Debug\net7.0\ref\OurApi.dll

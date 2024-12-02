@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\B\\נחמי ברנר\\core\\פרויקט רביעי\\OurApi\\wwwroot\\User.html",
+      "PackagePath": "staticwebassets\\User.html"
+    },
+    {
+      "Id": "Z:\\B\\נחמי ברנר\\core\\פרויקט רביעי\\OurApi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\B\\נחמי ברנר\\core\\פרויקט רביעי\\OurApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "Z:\\B\\נחמי ברנר\\core\\פרויקט רביעי\\OurApi\\wwwroot\\js\\User.js",
+      "PackagePath": "staticwebassets\\js\\User.js"
+    },
+    {
+      "Id": "Z:\\B\\נחמי ברנר\\core\\פרויקט רביעי\\OurApi\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "Z:\\B\\נחמי ברנר\\core\\פרויקט רביעי\\OurApi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\B\\נחמי ברנר\\core\\פרויקט רביעי\\OurApi\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OurApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OurApi.props",
+      "PackagePath": "build\\OurApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OurApi.props",
+      "PackagePath": "buildMultiTargeting\\OurApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OurApi.props",
+      "PackagePath": "buildTransitive\\OurApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

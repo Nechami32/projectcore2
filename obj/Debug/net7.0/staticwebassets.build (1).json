@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "C0bQchi1g+Uv6QLd8wrCVZvTZrsC607TLr9DmWJj1kI=",
+  "Source": "OurApi",
+  "BasePath": "_content/OurApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OurApi\\wwwroot",
+      "Source": "OurApi",
+      "ContentRoot": "C:\\Users\\user1\\Pictures\\י''ד\\OurApi\\wwwroot\\",
+      "BasePath": "_content/OurApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user1\\Pictures\\י''ד\\OurApi\\wwwroot\\css\\site.css",
+      "SourceId": "OurApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Pictures\\י''ד\\OurApi\\wwwroot\\",
+      "BasePath": "_content/OurApi",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Pictures\\י''ד\\OurApi\\wwwroot\\index.html",
+      "SourceId": "OurApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Pictures\\י''ד\\OurApi\\wwwroot\\",
+      "BasePath": "_content/OurApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\user1\\Pictures\\י''ד\\OurApi\\wwwroot\\js\\site.js",
+      "SourceId": "OurApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user1\\Pictures\\י''ד\\OurApi\\wwwroot\\",
+      "BasePath": "_content/OurApi",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
